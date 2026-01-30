@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+logs/
+audit/
+.env
+connections.json
+connectionNF.json
+.audit_key
+.DS_Store
